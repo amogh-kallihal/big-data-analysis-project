@@ -1,12 +1,12 @@
-*** SOCCER ANALYSIS - TEAM AND PLAYER LEVEL ***
+## SOCCER ANALYSIS - TEAM AND PLAYER LEVEL 
 
-** TECHNOLOGIES USED  **
+** TECHNOLOGIES USED 
 1. Scrapy
 2. Mongo
 3. Spark
 4. Plotly
 
-** FILES INFORMATION **
+## FILES INFORMATION 
 
 scrapy.py -  crawls the data from website sofifa.com
 
